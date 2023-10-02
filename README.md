@@ -1,7 +1,7 @@
 - 👋 Hi, I’m PurimetlaNareshBabu
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Deep learning techniques/Ml models
-- 💞️ I’m looking to collaborate on Data science/Software development project's
+- 👀 I’m interested in Data Science/ Building real-world Applications/ Machine Learning
+- 🌱 I’m currently learning Deep learning techniques/ML models
+- 💞️ I’m looking to collaborate on Data Science/Software development projects
 - 📫 How to reach me https://www.linkedin.com/in/purimetla-naresh-babu-269ba9183
 
 <!---
